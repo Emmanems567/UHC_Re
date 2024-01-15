@@ -1,0 +1,4 @@
+name: UHC_RE
+version: '${project.version}'
+main: me.emmanems.uhc_re.UHC_RE
+api-version: '1.20'
